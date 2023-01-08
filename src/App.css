@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.class1{
+    height: 200px;
+    width: 430px;
+    margin: 30px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(173, 116, 116);
+}
